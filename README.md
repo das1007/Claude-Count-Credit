@@ -4,6 +4,9 @@ A lightweight browser extension that enhances **claude.ai** with real-time insig
 
 ---
 
+<img width="787" height="472" alt="image" src="https://github.com/user-attachments/assets/54f28d9a-3fb4-41ef-b16c-f79181b34e2a" />
+
+
 ## ✨ Features
 
 ### 🔢 Token Count
