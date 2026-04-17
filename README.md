@@ -1,7 +1,3 @@
-Here’s a cleaner, more polished, and slightly more professional version of your README with improved structure, clarity, and consistency:
-
----
-
 # Claude Counter
 
 A lightweight browser extension that enhances **claude.ai** with real-time insights into your usage, including token count, cache timing, and rate limits.
@@ -39,7 +35,7 @@ A lightweight browser extension that enhances **claude.ai** with real-time insig
 ### Chrome / Edge / Chromium
 
 1. Download:
-   `claude-counter-0.4.2.zip`
+   👉 [https://github.com/Claude-Count-Credit/releases/download/V0.4.2/claude-counter-0.4.2.1.zip](https://github.com/Claude-Count-Credit/releases/download/V0.4.2/claude-counter-0.4.2.1.zip)
 2. Open:
    `chrome://extensions`
 3. Enable **Developer mode**
@@ -50,7 +46,7 @@ A lightweight browser extension that enhances **claude.ai** with real-time insig
 ### Firefox
 
 1. Download:
-   `claude-counter-0.4.2.xpi`
+   👉 [https://github.com/Claude-Count-Credit/releases/download/V0.4.2/claude-counter-0.4.2.xpi](https://github.com/Claude-Count-Credit/releases/download/V0.4.2/claude-counter-0.4.2.xpi)
 2. Drag the file into any Firefox window
 3. Click **Add**
 
@@ -59,7 +55,7 @@ A lightweight browser extension that enhances **claude.ai** with real-time insig
 ### Userscript
 
 1. Install from:
-   `claude-counter.user.js`
+   👉 [https://github.com/Claude-Count-Credit/blob/main/userscript/claude-counter.user.js](https://github.com/Claude-Count-Credit/blob/main/userscript/claude-counter.user.js)
 2. Use with a userscript manager like Tampermonkey
 
 ---
@@ -101,11 +97,3 @@ A lightweight browser extension that enhances **claude.ai** with real-time insig
 * Inspired by:
   **Claude Usage Tracker** by lugia19
 
----
-
-If you want, I can also:
-
-* Add badges (version, license, stars)
-* Improve GitHub release links formatting
-* Create a GIF/demo section instead of a static screenshot
-* Or tailor it for open-source promotion 🚀
